@@ -40,7 +40,7 @@ export default function TopNav() {
               type="text"
               onChange={handleSearchName}
               className="w-full pl-3 my-2 bg-transparent placeholder-[#838383] text-[15px] focus:outline-none"
-              placeholder="Search accounts"
+              placeholder="Lagi mau makan apa..."
             />
             <div className="absolute bg-white max-w-[910px] h-auto w-full z-20 left-0 top-12 border p-1">
               <div className="p-1">
@@ -54,7 +54,7 @@ export default function TopNav() {
                       width="40"
                       src="https://placeholder.co/40"
                     />
-                    <div className="truncate ml-2">Akun</div>
+                    <div className="truncate ml-2">Resto ABC</div>
                   </div>
                 </Link>
               </div>
@@ -81,7 +81,7 @@ export default function TopNav() {
                 <div className="flex items-center">
                 <button 
                     // tambahin function log in ya
-                    className="flex items-center bg-[#F02C56] text-white border rounded-md px-3 py-[6px]"
+                    className="flex items-center bg-[#7f79ac] text-white border rounded-md px-3 py-[6px]"
                 >
                     <span className="whitespace-nowrap mx-4 font-medium text-[15px]">Log in</span>
                 </button>
