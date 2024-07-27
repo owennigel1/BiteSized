@@ -6,6 +6,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.chrome.service import Service
 from seleniumwire import webdriver
 from seleniumwire.utils import decode as sw_decode
 
@@ -37,9 +38,8 @@ class Driver:
         }
         #A list of addresses for which Selenium Wire should be bypassed entirely. Note that if you have configured an upstream proxy then requests to excluded hosts will also bypass that proxy.
 
-        self.browser = webdriver.Chrome(executable_path=self.driver_path,
-                                        desired_capabilities=chrome_opts.to_capabilities(),
-                                        seleniumwire_options=options)  # Create the browser and open the url in it and wait for the page to load completely
+        service = Service(self.driver_path)
+        self.browser = webdriver.Chrome(service=service, options=chrome_opts, seleniumwire_options=options)  # Create the browser and open the url in it and wait for the page to load completely
 
     def tear_down(self):  # Close the browser
         self.browser.quit()
@@ -55,7 +55,7 @@ class Scraper:
     self.grab_internal_post_api is found by manually inspecting all XHR made my grab-foods, using chrome dev tools.
     """
 
-    def __init__(self, driver: Driver, base_url: str = "https://food.grab.com/id/en/restaurants") -> None:  #  initialize the scraper
+    def __init__(self, driver: Driver, base_url: str = "https://food.grab.com/sg/en/restaurants") -> None:  #  initialize the scraper
         self.driver = driver # initialize the driver
         self.base_url = base_url # initialize the base url
         self.grab_internal_post_api = "https://portal.grab.com/foodweb/v2/search"  # initialize the grab-foods internal post api
@@ -129,7 +129,7 @@ class Scraper:
 
 if __name__ == "__main__":
     driver_path = "/Users/owennigel/local/bin/chromedriver"  # path to the chromedriver
-    base_url = "https://food.grab.com/id/en/restaurants"  # base url of the website
+    base_url = "https://food.grab.com/sg/en/restaurants"  # base url of the website
     driver = Driver(driver_path)  # initialize the driver
     scraper = Scraper(driver, base_url)  # initialize the scraper
     restaurants_latlng = scraper.scrape() # scrape the restaurants latlng
