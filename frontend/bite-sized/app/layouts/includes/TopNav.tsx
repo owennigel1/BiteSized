@@ -46,7 +46,7 @@ export default function TopNav() {
               <div className="p-1">
                 <Link
                   href={`/profile/1`}
-                  className="flex items-center justify-between w-full cursor-pointer hover:bg-[#F12B56] p-1 px-2 hover:text-white"
+                  className="flex items-center justify-between w-full cursor-pointer hover:bg-[#7f79ac] p-1 px-2 hover:text-white"
                 >
                   <div className="flex items-center">
                     <img
@@ -77,7 +77,8 @@ export default function TopNav() {
             </button>
 
             {/* saat true, profile menu dan log out gak dimunculin */}
-            {true ? ( 
+            {/* bagian sini ubah-ubah aja */}
+            {!true ? ( 
                 <div className="flex items-center">
                 <button 
                     // tambahin function log in ya
@@ -97,7 +98,7 @@ export default function TopNav() {
                             {/* tinggal ganti placeholdernya */}
                         </button>
 
-                        <div className="absolute rounded-lg py-1.5 w-[200px] shadow-xl border top-[40px] right-0">
+                        <div className="absolute rounded-lg py-1.5 w-[200px] shadow-xl border top-[40px] right-0 bg-white">
                             <button
                                 className="flex items-center w-full justify-start py-3 px-2 hover:bg-gray-100 cursor-pointer"
                             >
