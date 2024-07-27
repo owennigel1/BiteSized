@@ -20,13 +20,13 @@ export default function SideNavMain() {
         <div className="lg:w-full w-[55px] mx-auto">
           <Link href="/">
             <MenuItem
-              iconString="For You"
+              iconString="Rekomendasi"
               colorString={pathname == "/" ? "#7f79ac" : ""}
               sizeString="25"
             />
           </Link>
           <MenuItem
-            iconString="Following"
+            iconString="Langganan"
             colorString="#000000"
             sizeString="25"
           />

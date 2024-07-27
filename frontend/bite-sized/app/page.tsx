@@ -1,16 +1,15 @@
-"use client"
+"use client";
 
-import MainLayout from "./layouts/MainLayout"
-import PostMain from "./components/PostMain"
+import MainLayout from "./layouts/MainLayout";
+import PostMain from "./components/PostMain";
 
 export default function Home() {
   const posts = [
-    //! ini buat contoh aja yakk
     {
       id: '123',
       user_id: '666',
       video_url: '/test-video-2.mp4',
-      text: 'Seblak paling pedes seantero semesta. Lokasi Gading Serpong. CUSSSS!!!',
+      text: 'Seblak LVL 10000',
       created_at: 'ini tanggal dibuat',
       profile: {
         user_id: '666',
@@ -19,36 +18,35 @@ export default function Home() {
       },
     },
     {
-      id: '124',
-      user_id: '667',
+      id: '123',
+      user_id: '666',
       video_url: '/test-video.mp4',
-      text: 'deskripsinya di sini',
+      text: 'test deskripsi',
       created_at: 'ini tanggal dibuat',
       profile: {
-        user_id: '667',
-        name: 'test ajaaa',
-        image: 'https://placehold.co/101',
+        user_id: '666',
+        name: 'Test',
+        image: 'https://placehold.co/100',
       },
     },
     {
-      id: '125',
-      user_id: '668',
+      id: '123',
+      user_id: '666',
       video_url: '/test-video-3.mp4',
-      text: 'Ceker Midun! PROMO 1.100 PORSI GRATIS',
+      text: 'Ceker Mercon!!! Promo 1.100 porsi GRATIS!',
       created_at: 'ini tanggal dibuat',
       profile: {
-        user_id: '668',
+        user_id: '666',
         name: 'Ceker Midun',
-        image: 'https://placehold.co/101',
+        image: 'https://placehold.co/100',
       },
     },
-    
   ];
 
   return (
     <>
       <MainLayout>
-        <div className="mt-[80px] w-[calc(100%-90px)] max-w-[690px] ml-auto overflow-y-auto max-h-screen">
+        <div className="flex flex-col items-center justify-center w-full h-full">
           {posts.map((post) => (
             <PostMain key={post.id} post={post} />
           ))}
