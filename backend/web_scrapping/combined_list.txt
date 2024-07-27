@@ -1,0 +1,50 @@
+{
+  "getRecommendedMerchantsV2/countryCode=ID&latitude=-6.1767352&longitude=106.826504": {
+    "getRecommendedMerchantsV2/countryCode=ID&latitude=-6.1767352&longitude=106.826504": [
+      "6-C22TL2JHKA4TJA",
+      "6-C2VKTF32TKCGR6",
+      "IDGFSTI00000fbc",
+      "6-C2CBCFN2NTJGL2",
+      "6-CYN3PFCFR4M2TN",
+      "IDGFSTI000020id",
+      "IDGFSTI00000cpf",
+      "6-C353A23HG4D2EJ"
+    ]
+  },
+  "getRestaurantsV2/countryCode=ID&latlng=-6.1767352%2C106.826504": {
+    "getRestaurantsV2/countryCode=ID&latlng=-6.1767352%2C106.826504": [
+      "IDGFSTI00000fec",
+      "6-C3LBN6DYLE4AR6",
+      "IDGFSTI00001mce",
+      "6-C3K3BCC1GTNBKA",
+      "6-C32YFGA2E2NDLT",
+      "6-C2VKTF32TKCGR6",
+      "IDGFSTI000006x6",
+      "6-C3UVGGC2RY52TA",
+      "6-C2U3GT2DBGNTGX",
+      "6-C2AVVEAVVUUWLN",
+      "6-C4LEARAKNN31E2",
+      "6-C4M3LJ3ZWB4TTA",
+      "6-C6TGETD3VJ2FEX",
+      "6-C2BANKMJVU3GWE",
+      "6-C2JTEU3TWE5YHE",
+      "6-C3DDRK6XEJLKTT",
+      "IDGFSTI000000oq",
+      "6-C6JKV7CAJY43V6",
+      "6-C6NYPA6DSAM3JN",
+      "6-C6JTDCKVNXNJVT",
+      "6-CZLGKFNYNPUWSE",
+      "6-C6THRCNUJJMCNX",
+      "6-C2LBGKJHVNVAE6",
+      "6-C4DAMCLDRRJXAX",
+      "6-C3L1ENU3GGMVG6",
+      "6-CZNCTAAZT6JXVX",
+      "6-C343CUEDAPTZFE",
+      "6-C3UWTJBJSEUFVA",
+      "6-CY3HAFVECCJZRT",
+      "6-C25ACYXHPAWVTN",
+      "6-C2JVEUBWL2JTV2",
+      "6-C6E1CLJXCFNBFA"
+    ]
+  }
+}

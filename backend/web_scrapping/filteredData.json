@@ -1,0 +1,306 @@
+{
+    "McDonald's - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI00001mce/hero/b7810b6e558440499d011025e2de7d3b_1720154153237309735.webp",
+        "cuisine": "Chicken,Fast Food,International",
+        "eta": 20,
+        "distance_in_km": 2.963,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/mcdonalds-gambir-delivery/IDGFSTI00001mce?"
+    },
+    "Kawisari Coffee - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-CZNCTAAZT6JXVX/hero/4ecc36ca3ebd4abdb9c9c9ad800237b8_1598280335514490977.webp",
+        "cuisine": "Beverages,Coffee,Snack",
+        "eta": 25,
+        "distance_in_km": 2.405,
+        "rating": 4.7,
+        "buy_link": "https://food.grab.com/id/en/restaurant/kawisari-coffee-kebon-sirih-delivery/6-CZNCTAAZT6JXVX?"
+    },
+    "Nasi Goreng Kambing H Salim Kebon Sirih - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-CZLGKFNYNPUWSE/hero/9d00ea15adab49e0b454c7507359b22e_1699600720601842968.webp",
+        "cuisine": "Indonesian,Rice,Bakso & Soto",
+        "eta": 15,
+        "distance_in_km": 2.445,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kambing-h-salim-kebon-sirih-kebon-sirih-delivery/6-CZLGKFNYNPUWSE?"
+    },
+    "Nasi Goreng Gila Spesial Mas Ulul - Maphar": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI00000fbc/hero/3fadcf91659c4bab81822e8524829bf4_1644333424741850294.webp",
+        "cuisine": "Ayam,Aneka Nasi",
+        "eta": 25,
+        "distance_in_km": 3.645,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-goreng-gila-spesial-mas-ulul-maphar-delivery/IDGFSTI00000fbc?"
+    },
+    "KFC - Stasiun Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI00000fec/hero/b9f5d184a0f349839ee5a41daddb68e1_1721926867607814413.webp",
+        "cuisine": "Chicken,Fast Food,International",
+        "eta": 25,
+        "distance_in_km": 2.95,
+        "rating": 4.3,
+        "buy_link": "https://food.grab.com/id/en/restaurant/kfc-stasiun-gambir-delivery/IDGFSTI00000fec?"
+    },
+    "Kyyy - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C4DAMCLDRRJXAX/hero/5cc18957007e4b4d8a5814565190ed3a_1699882719828719547.webp",
+        "cuisine": "Indonesian",
+        "eta": 20,
+        "distance_in_km": 2.41,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/kyyy-gambir-delivery/6-C4DAMCLDRRJXAX?"
+    },
+    "Gerobak LO Sabang  - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2BANKMJVU3GWE/hero/c400d552-66c2-4c1b-8e0f-a0147cb075b8__store_cover__2023__06__10__11__05__20.webp",
+        "cuisine": "Chicken,Rice",
+        "eta": 25,
+        "distance_in_km": 2.541,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/gerobak-lo-sabang--kebon-sirih-delivery/6-C2BANKMJVU3GWE?"
+    },
+    "Ayam Bakar Geprek Ibu May - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2CBCFN2NTJGL2/hero/4dc885b946e74d4b86f436825138f6b1_1632124349497141152.webp",
+        "cuisine": "Chicken,Bakso & Soto",
+        "eta": 25,
+        "distance_in_km": 2.393,
+        "rating": 4.7,
+        "buy_link": "https://food.grab.com/id/en/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?"
+    },
+    "Nasi Padang Sederhana Minang - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3LBN6DYLE4AR6/hero/529764d9-6bae-435b-a46a-95a53f4cf75b__store_cover__2023__06__14__15__57__08.webp",
+        "cuisine": "Padang,Rice,Breakfast",
+        "eta": 25,
+        "distance_in_km": 2.924,
+        "rating": 4.4,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-padang-sederhana-minang-gambir-delivery/6-C3LBN6DYLE4AR6?"
+    },
+    "TAHU GEJROT - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C343CUEDAPTZFE/hero/2321d46a-5de6-4e3f-9132-c06afe55df50__store_cover__2024__01__16__14__48__05.webp",
+        "cuisine": "Snack",
+        "eta": 15,
+        "distance_in_km": 2.379,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/tahu-gejrot-kebon-sirih-delivery/6-C343CUEDAPTZFE?"
+    },
+    "Brzy Beauty Store - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C25ACYXHPAWVTN/hero/fd402da0935049b495ddc90c3b1b19b9_1637908053086460157.webp",
+        "cuisine": "Specialty Stores",
+        "eta": 25,
+        "distance_in_km": 3.05,
+        "rating": 5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/brzy-beauty-store-gambir-delivery/6-C25ACYXHPAWVTN?"
+    },
+    "McDonald's - Cideng": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI000020id/hero/7d7c86300e804ce28891f490fb33714c_1720585677209445648.webp",
+        "cuisine": "Chicken,Fast Food,International",
+        "eta": 20,
+        "distance_in_km": 3.227,
+        "rating": 4.7,
+        "buy_link": "https://food.grab.com/id/en/restaurant/mcdonalds-cideng-delivery/IDGFSTI000020id?"
+    },
+    "CFC - Stasiun Gambir B": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI000006x6/hero/e8baedc5bbc84bd6a8c5b1679c12b142_1721124001688139408.webp",
+        "cuisine": "Chicken,Fast Food,Rice",
+        "eta": 30,
+        "distance_in_km": 2.929,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/cfc-stasiun-gambir-b-delivery/IDGFSTI000006x6?"
+    },
+    "Wr Rujak Buah Fitria Parto - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2JTEU3TWE5YHE/hero/7955cba9df294b8c95dcaab4c3ecd3e4_1611024731022523416.webp",
+        "cuisine": "Dessert,Healthy,Indonesian",
+        "eta": 15,
+        "distance_in_km": 1.189,
+        "rating": 4.5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/wr-rujak-buah-fitria-parto-gambir-delivery/6-C2JTEU3TWE5YHE?"
+    },
+    "Kopi Ko Acung - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3L1ENU3GGMVG6/hero/c15e84ac79bb4c03b9e96bd85b27da2f_1663835015410108744.webp",
+        "cuisine": "Beverages,Coffee,Snack",
+        "eta": 25,
+        "distance_in_km": 2.49,
+        "rating": 4.5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/kopi-ko-acung-kebon-sirih-delivery/6-C3L1ENU3GGMVG6?"
+    },
+    "MIXUE - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C32YFGA2E2NDLT/hero/4c083004e5cf489fb828ac86d657d19c_1718359037602080664.webp",
+        "cuisine": "Ice Cream,Dessert,Bubble Tea",
+        "eta": 20,
+        "distance_in_km": 3,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/mixue-gambir-delivery/6-C32YFGA2E2NDLT?"
+    },
+    "Nasi Goreng Kambing Kebon Sirih 1958 (Nasgorkam Bonsir 1958) - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2VKTF32TKCGR6/hero/d1a1e409e14b4f16b70c08b9dd2cbfaa_1654585494373869667.webp",
+        "cuisine": "Rice,Indonesian,Satay",
+        "eta": 25,
+        "distance_in_km": 2.503,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-goreng-kambing-kebon-sirih-1958-(nasgorkam-bonsir-1958)-kebon-sirih-delivery/6-C2VKTF32TKCGR6?"
+    },
+    "Mie Aceh Dan Nasi Goreng Samudera Pasee - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-CY3HAFVECCJZRT/hero/0f523f9572ab4d3aad941de291c7e2c4_1699882719824392009.webp",
+        "cuisine": "Rice",
+        "eta": 15,
+        "distance_in_km": 0.369,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/mie-aceh-dan-nasi-goreng-samudera-pasee-gambir-delivery/6-CY3HAFVECCJZRT?"
+    },
+    "Nasi Goreng Gila - Petojo Selatan": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3UWTJBJSEUFVA/hero/62e06b8f9e0e475bb9f931b2ef28fab3_1663406268683161332.webp",
+        "cuisine": "Rice,Noodles",
+        "eta": 20,
+        "distance_in_km": 1.708,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-goreng-gila-petojo-selatan-delivery/6-C3UWTJBJSEUFVA?"
+    },
+    "Burger King - Cideng Jakarta": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-CYN3PFCFR4M2TN/hero/068558ced0d74467b3e27e1c2fdc3331_1719939713045797972.webp",
+        "cuisine": "Chicken,Fast Food,International",
+        "eta": 25,
+        "distance_in_km": 2.742,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?"
+    },
+    "Mayasari - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C4M3LJ3ZWB4TTA/hero/e9c60097-f12f-4b18-8c8b-7772ef81b842__store_cover__2023__12__19__09__12__22.webp",
+        "cuisine": "Bakery & Cake,Snack,Dessert",
+        "eta": 30,
+        "distance_in_km": 3.03,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/mayasari-gambir-delivery/6-C4M3LJ3ZWB4TTA?"
+    },
+    "HAUS! x Hot Oppa - JKT Stasiun Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3UVGGC2RY52TA/hero/52efc5fdfb274c719348bd742c6de4dd_1692609340059190583.webp",
+        "cuisine": "Beverages,Bubble Tea,Dessert",
+        "eta": 25,
+        "distance_in_km": 3.063,
+        "rating": 4.7,
+        "buy_link": "https://food.grab.com/id/en/restaurant/haus!-x-hot-oppa-jkt-stasiun-gambir-delivery/6-C3UVGGC2RY52TA?"
+    },
+    "21FactoryGelato - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C6TGETD3VJ2FEX/hero/3a6d6232-e7a0-4527-8dd7-055d683410f6__store_cover__2024__07__16__09__56__06.webp",
+        "cuisine": "Dessert,Coffee,Pizza & Pasta",
+        "eta": 25,
+        "distance_in_km": 3.026,
+        "rating": 5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/21factorygelato-gambir-delivery/6-C6TGETD3VJ2FEX?"
+    },
+    "Wingstop - Stasiun Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C4LEARAKNN31E2/hero/e3aa226e06e746c982c583849827128d_1721840569748321959.webp",
+        "cuisine": "Chicken",
+        "eta": 30,
+        "distance_in_km": 2.996,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/wingstop-stasiun-gambir-delivery/6-C4LEARAKNN31E2?"
+    },
+    "Pecel Lele 86 - Kebon Kacang": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C353A23HG4D2EJ/hero/4be9bb88-7ca4-45a7-bb02-45ec50701544__store_cover__2023__04__02__08__10__10.webp",
+        "cuisine": "Chicken,Seafood,Rice",
+        "eta": 40,
+        "distance_in_km": 3.26,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/pecel-lele-86-kebon-kacang-delivery/6-C353A23HG4D2EJ?"
+    },
+    "Nasi Goreng Pakkun Jaya - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2U3GT2DBGNTGX/hero/2c5d6737179c4b859f735ecb3f15397b_1641462769448873691.webp",
+        "cuisine": "Indonesian,Rice,Noodles",
+        "eta": 25,
+        "distance_in_km": 0.98,
+        "rating": 4.5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-goreng-pakkun-jaya-gambir-delivery/6-C2U3GT2DBGNTGX?"
+    },
+    "Rujak Buah Sehat Selalu - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3DDRK6XEJLKTT/hero/d1688fbc80d24f85971c6a8581795e8e_1646481301242543396.webp",
+        "cuisine": "Healthy,Dessert",
+        "eta": 20,
+        "distance_in_km": 0.95,
+        "rating": 4.5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/rujak-buah-sehat-selalu-gambir-delivery/6-C3DDRK6XEJLKTT?"
+    },
+    "Circle K - Sabang 2(KORNER)": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2JVEUBWL2JTV2/hero/2b2d4e5f2ba44c3c825c355e5e24cfde_1720458063269117566.webp",
+        "cuisine": "Coffee,Mart,Snack",
+        "eta": 35,
+        "distance_in_km": 2.598,
+        "rating": 5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/circle-k-sabang-2(korner)-delivery/6-C2JVEUBWL2JTV2?"
+    },
+    "Warpong Buan - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C6JKV7CAJY43V6/hero/c6bf760faca54a0ebf2286d24897aff4_1711092537993509160.webp",
+        "cuisine": "Indonesian,Rice,#PesanSekaligus",
+        "eta": 25,
+        "distance_in_km": 2.527,
+        "rating": 5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/warpong-buan-kebon-sirih-delivery/6-C6JKV7CAJY43V6?"
+    },
+    "Nasi Bebek Idaman 88 Khas Madura - Kebon Kacang": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C22TL2JHKA4TJA/hero/9626ac0eeafe46258478eaa1da6ac00e_1631174226914257789.webp",
+        "cuisine": "Aneka Nasi,Ayam,Asli Indonesia \ud83c\uddee\ud83c\udde9",
+        "eta": 25,
+        "distance_in_km": 2.796,
+        "rating": 4.6,
+        "buy_link": "https://food.grab.com/id/en/restaurant/nasi-bebek-idaman-88-khas-madura-kebon-kacang-delivery/6-C22TL2JHKA4TJA?"
+    },
+    "Ayam Gepuk Pak Gembus - Kebon Kacang Tanah Abang": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI00000cpf/hero/be384692222c4147a334efacca30f12f_1721904230209137262.webp",
+        "cuisine": "Chicken,Rice,Indonesian",
+        "eta": 35,
+        "distance_in_km": 3.49,
+        "rating": 4.5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/ayam-gepuk-pak-gembus-kebon-kacang-tanah-abang-delivery/IDGFSTI00000cpf?"
+    },
+    "Sate Ayam Taichan Barkah Kebon Sirih - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2AVVEAVVUUWLN/hero/1b48808ba60c4271b0de18112882fc1f_1601291098406136014.webp",
+        "cuisine": "Indonesian,Satay,Chicken",
+        "eta": 25,
+        "distance_in_km": 2.316,
+        "rating": 4.9,
+        "buy_link": "https://food.grab.com/id/en/restaurant/sate-ayam-taichan-barkah-kebon-sirih-kebon-sirih-delivery/6-C2AVVEAVVUUWLN?"
+    },
+    "Duo putri fried chiken - Gambir": {
+        "photo_href": "N/A",
+        "cuisine": "Chicken",
+        "eta": 20,
+        "distance_in_km": 2.41,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/duo-putri-fried-chiken-gambir-delivery/6-C6NYPA6DSAM3JN?"
+    },
+    "Derings - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C2LBGKJHVNVAE6/hero/8f48c5301fb7464d8eb95046e5315b57_1614152162368165396.webp",
+        "cuisine": "Beverages",
+        "eta": 25,
+        "distance_in_km": 3.043,
+        "rating": 5,
+        "buy_link": "https://food.grab.com/id/en/restaurant/derings-gambir-delivery/6-C2LBGKJHVNVAE6?"
+    },
+    "Penang Bistro - Kebon Sirih": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/IDGFSTI000000oq/hero/IDGFSTI000000oq_0_383.webp",
+        "cuisine": "Chicken,Rice,Snack",
+        "eta": 25,
+        "distance_in_km": 2.197,
+        "rating": 4.7,
+        "buy_link": "https://food.grab.com/id/en/restaurant/penang-bistro-kebon-sirih-delivery/IDGFSTI000000oq?"
+    },
+    "Kopi Kenangan - Stasiun Gambir Selatan": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C3K3BCC1GTNBKA/hero/4739dfa0ffab4393b6a259aff3be4ea9_1721827006250089947.webp",
+        "cuisine": "Beverages,Snack,Coffee",
+        "eta": 25,
+        "distance_in_km": 2.999,
+        "rating": 4.8,
+        "buy_link": "https://food.grab.com/id/en/restaurant/kopi-kenangan-stasiun-gambir-selatan-delivery/6-C3K3BCC1GTNBKA?"
+    },
+    "Kuliner Dari Monas - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C6JTDCKVNXNJVT/hero/14123c59e2f840daab1313f8300b0203_1711019126558282334.webp",
+        "cuisine": "Indonesian",
+        "eta": 15,
+        "distance_in_km": 0.358,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/kuliner-dari-monas-gambir-delivery/6-C6JTDCKVNXNJVT?"
+    },
+    "Roti bakar cak hari - Gambir": {
+        "photo_href": "https://food-cms.grab.com/compressed_webp/merchants/6-C6THRCNUJJMCNX/hero/f200fce8-33c0-4d1d-84bb-c09ec374ada3__store_cover__2024__07__19__06__51__27.webp",
+        "cuisine": "Bakery & Cake,Martabak,Snack",
+        "eta": 20,
+        "distance_in_km": 2.41,
+        "rating": "N/A",
+        "buy_link": "https://food.grab.com/id/en/restaurant/roti-bakar-cak-hari-gambir-delivery/6-C6THRCNUJJMCNX?"
+    }
+}

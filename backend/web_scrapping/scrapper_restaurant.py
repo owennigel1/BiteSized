@@ -26,7 +26,7 @@ if response.status_code == 200:
         script_content = script_tag.string.strip()
 
         # Save the content to a JSON file
-        with open('resultJson.json', 'w', encoding='utf-8') as json_file:
+        with open('backend/web_scrapping/resultJson.json', 'w', encoding='utf-8') as json_file:
             json_file.write(script_content)
 
         print("Data saved to resultJson.json")
