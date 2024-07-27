@@ -30,6 +30,8 @@ export interface RandomUsers {
     image: string;
 }
 
+
+
 export interface CropperDimensions {
     height?: number | null;
     width?: number | null;
@@ -37,7 +39,7 @@ export interface CropperDimensions {
     top?: number | null;
 }
 
-export interface Like {
+export interface Order {
     id: string;
     user_id: string;
     post_id: string;
@@ -129,7 +131,7 @@ export interface PostMainCompTypes {
     post: PostWithProfile
 }
 
-export interface PostMainLikesCompTypes {
+export interface OrderCompTypes {
     post: PostWithProfile
 }
 
