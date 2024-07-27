@@ -11,7 +11,7 @@ from seleniumwire.utils import decode as sw_decode
 
 
 class Driver: 
-    def __init__(self, driver_path: str = "/home/paritoshtripathi/PycharmProjects/anakin/chromedriver") -> None:
+    def __init__(self, driver_path: str = "/Users/owennigel/local/bin/chromedriver") -> None:
         self.driver_path = driver_path
         self.browser = None
         self.setup()
@@ -55,7 +55,7 @@ class Scraper:
     self.grab_internal_post_api is found by manually inspecting all XHR made my grab-foods, using chrome dev tools.
     """
 
-    def __init__(self, driver: Driver, base_url: str = "https://food.grab.com/sg/en/restaurants") -> None:  #  initialize the scraper
+    def __init__(self, driver: Driver, base_url: str = "https://food.grab.com/id/en/restaurants") -> None:  #  initialize the scraper
         self.driver = driver # initialize the driver
         self.base_url = base_url # initialize the base url
         self.grab_internal_post_api = "https://portal.grab.com/foodweb/v2/search"  # initialize the grab-foods internal post api
@@ -128,8 +128,8 @@ class Scraper:
 
 
 if __name__ == "__main__":
-    driver_path = "/home/paritoshtripathi/PycharmProjects/anakin/chromedriver"  # path to the chromedriver
-    base_url = "https://food.grab.com/sg/en/restaurants"  # base url of the website
+    driver_path = "/Users/owennigel/local/bin/chromedriver"  # path to the chromedriver
+    base_url = "https://food.grab.com/id/en/restaurants"  # base url of the website
     driver = Driver(driver_path)  # initialize the driver
     scraper = Scraper(driver, base_url)  # initialize the scraper
     restaurants_latlng = scraper.scrape() # scrape the restaurants latlng
