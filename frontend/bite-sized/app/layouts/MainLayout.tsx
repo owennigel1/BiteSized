@@ -32,13 +32,15 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
   return (
     <>
       <div className="fixed top-0 w-full z-10 bg-transparent">
-        <TopNav />
+        <div>
+          <TopNav />
+        </div>
       </div>
-      <div className={`flex flex-col lg:flex-row justify-between mx-auto w-full lg:px-2.5 px-0 pt-[60px] ${pathname === '/' ? 'max-w-[1140px]' : ''}`}>
+      <div className={`flex flex-col lg:flex-row justify-between mx-auto w-full lg:px-2.5 px-0 lg:pt-[60px] ${pathname === '/' ? 'max-w-[1120px]' : ''}`}>
         <div className="hidden lg:block">
           <SideNavMain />
         </div>
-        <div {...handlers} className={`flex-1 w-full h-full relative ${swipedLeft ? 'animate-swipe-left' : ''} ${swipedRight ? 'animate-swipe-right' : ''}`}>
+        <div {...handlers} className={`flex-1 w-full h-full top-0 left-0 ${swipedLeft ? 'animate-swipe-left' : ''} ${swipedRight ? 'animate-swipe-right' : ''}`}>
           {children}
           {swipedRight && (
             <div className="absolute top-0 left-0 w-full h-full bg-white flex items-center justify-center text-black text-xl">

@@ -21,7 +21,7 @@ export default function SideNavMain() {
           <Link href="/">
             <MenuItem
               iconString="GrabFood"
-              colorString={pathname == "/" ? "#7f79ac" : ""}
+              colorString={pathname == "/" ? "#00B14F" : ""}
               sizeString="25"
             />
           </Link>
@@ -49,7 +49,7 @@ export default function SideNavMain() {
             </div>
           </ClientOnly>
 
-          <button className="lg:block hidden text-[#7f79ac] pt-1.5 pl-2 text-[13px]">
+          <button className="lg:block hidden text-[#00B14F] pt-1.5 pl-2 text-[13px]">
             Lihat semua
           </button> */}
 
@@ -73,7 +73,7 @@ export default function SideNavMain() {
                 </div>
               </ClientOnly>
 
-              <button className="lg:block hidden text-[#7f79ac] pt-1.5 pl-2 text-[13px]">
+              <button className="lg:block hidden text-[#00B14F] pt-1.5 pl-2 text-[13px]">
                 Lainnya
               </button>
             </div>
