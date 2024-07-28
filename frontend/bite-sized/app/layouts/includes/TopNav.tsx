@@ -25,26 +25,19 @@ export default function TopNav() {
             pathname === "/" ? "max-w-[1150px]" : ""
           }`}
         >
-          <div className="flex md:hidden justify-center w-full">
+          <div className="flex justify-center">
             <Link href="/">
               <img
-                className="min-w-[115px] w-[115px]"
-                src="/images/BiteSized.png"
+                className="min-w-[144px] w-[144px]"
+                src="/logo.svg"
                 alt="Logo"
               />
             </Link>
           </div>
 
-          <div className="hidden md:flex items-center justify-between md:justify-center md:gap-6 w-full mx-auto">
-            <Link href="/">
-              <img
-                className="min-w-[115px] w-[115px]"
-                src="/images/BiteSized.png"
-                alt="Logo"
-              />
-            </Link>
+          <div className="hidden md:flex items-center justify-end md:gap-6 w-full ">
 
-            <div className="flex items-center gap-3 hidden md:flex">
+            <div className="flex items-center justify-end gap-3 hidden md:flex">
               <button
                 onClick={() => goTo()}
                 className="flex items-center border rounded-sm py-[6px] hover:bg-gray-100 pl-1.5"
@@ -54,7 +47,7 @@ export default function TopNav() {
 
               {!true ? (
                 <div className="flex items-center">
-                  <button className="flex items-center bg-[#7f79ac] text-white border rounded-md px-3 py-[6px]">
+                  <button className="flex items-center bg-[#00B14F] text-white border rounded-md px-3 py-[6px]">
                     <span className="whitespace-nowrap mx-4 font-medium text-[15px]">Log in</span>
                   </button>
                   <BsThreeDotsVertical color="#161724" size="25" />
